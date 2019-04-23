@@ -37,3 +37,6 @@ The founder of agile development, the author of the refactoring book, the master
 
 ## MindMap
 https://www.processon.com/view/link/5cb86320e4b09a3e45a1c486
+
+Methods are now temporarily in the Version 1 in another github project.    
+For further reading, please buy the book and enjoy yourself.
